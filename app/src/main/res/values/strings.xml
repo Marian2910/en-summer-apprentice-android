@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">EventTix</string>
+    <string name="event_name" />
+    <string-array name="event_model_full_txt">
+        <item>Untold</item>
+        <item>TIFF</item>
+        <item>Electric Castle</item>
+        <item>U Cluj - CFR</item>
+        <item>Wine Festival</item>
+        <item>Traviata</item>
+        <item>Sport Festival</item>
+        <item>Zilele Clujului</item>
+    </string-array>
+
+    <string-array name="event_model_venue_txt">
+        <item>Aleea Stadionului 2</item>
+        <item>Cluj-Napoca</item>
+        <item>Bontida</item>
+        <item>Aleea Stadionului 2</item>
+        <item>Parcul Central</item>
+        <item>Opera Nationala Romana Cluj</item>
+        <item>Parcul Central</item>
+        <item>Piata Unirii</item>
+    </string-array>
+
+    <string-array name="event_model_eventType_txt">
+        <item>Festival de muzica</item>
+        <item>Festival de film</item>
+        <item>Festival de muzica</item>
+        <item>Meci de fotbal</item>
+        <item>Festival de vin</item>
+        <item>Spectacol de Opera</item>
+        <item>Festiva sportiv</item>
+        <item>Festival</item>
+    </string-array>
+</resources>
